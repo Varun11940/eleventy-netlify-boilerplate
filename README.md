@@ -2,11 +2,11 @@
 
 # Eleventy Netlify Boilerplate
 
-## What is it?
+## Description
 
 A simple template for building a fast, pre-generated HTML website using the [Eleventy](https://www.11ty.io/) static site generator. With [Netlify CMS](https://www.netlifycms.org/) baked-in, ready to deploy to [Netlify](https://www.netlify.com) in a couple of clicks.
 
-Use it as a starter for your own JAMstack projects, or as an easy way to get started building websites with Eleventy.
+Use it as a tool for your own JAMstack projects, or as an easy way to get started building websites with Eleventy.
 
 Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) repo (see there for additional info on Eleventy usage).
 
